@@ -1,0 +1,14 @@
+article{
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+}
+
+#srvCl{
+    left: 33%;
+}
+
+#srvP{
+    left: 66%;
+}
